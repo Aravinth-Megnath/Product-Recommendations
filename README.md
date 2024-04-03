@@ -25,8 +25,19 @@ The objective of this project is to create a user-friendly electronics product r
 
 ![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/ba7e2eec-cfb1-4f8b-98f2-fc40ff70bd8f)
 
+- **Boxplot Analysis:**
+  - Conducted a boxplot analysis to examine the distribution of ratings by gender across various product categories.
+  - Observed that males tend to rate "Security and Surveillance" products higher, while females rate "Home Audio" products higher.
+  - Additionally, both genders rate "Accessories and Supplies" similarly.
+
 
 ![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/2ae24915-e0c9-4208-a18b-3fb36e7e7354)
+
+### Ratings Over the Years
+
+- **Boxplot Analysis:**
+  - Investigated the distribution of ratings over the years using a boxplot.
+  - Found that the ratings were consistently high (near 5) around the year 2002, but decreased significantly after 2007, with most ratings falling below 4.
 
 
 
