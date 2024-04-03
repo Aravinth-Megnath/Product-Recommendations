@@ -6,6 +6,11 @@ This project focuses on developing an electronics product recommendation system 
 
 The objective of this project is to create a user-friendly electronics product recommendation system using collaborative filtering and neural networks. We aim to accurately predict user preferences for electronic products, enhance model performance with a custom embedding module and weight decay, and improve user satisfaction by providing personalized recommendations. Through training and evaluation, we seek to optimize the system for accuracy and usability, ultimately enhancing the shopping experience for users in the electronics domain.
 
+# Exploratory Data Analysis (EDA)
+## Gender Distribution in Purchases
+# Bar Chart Analysis:
+   Analyzed the gender distribution among customers based on purchasing behavior.
+   Observed that females tend to make more purchases compared to males, as indicated by the bar chart visualization.
 ![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/91ac74c5-be5a-4213-8c41-85a87118abff)
 
 
