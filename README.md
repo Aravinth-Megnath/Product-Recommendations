@@ -16,6 +16,12 @@ The objective of this project is to create a user-friendly electronics product r
 
 ![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/91ac74c5-be5a-4213-8c41-85a87118abff)
 
+### Popular Product Categories
+
+- **Bar Chart Analysis:**
+  - Investigated the distribution of purchases across different product categories.
+  - Found that "Headphones," "Computer Accessories," and "Camera/Photo" are the top-selling categories, based on the bar chart visualization.
+
 
 ![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/ba7e2eec-cfb1-4f8b-98f2-fc40ff70bd8f)
 
