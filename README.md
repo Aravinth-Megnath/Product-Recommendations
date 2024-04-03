@@ -5,3 +5,15 @@ This project focuses on developing an electronics product recommendation system 
 # Objective:
 
 The objective of this project is to create a user-friendly electronics product recommendation system using collaborative filtering and neural networks. We aim to accurately predict user preferences for electronic products, enhance model performance with a custom embedding module and weight decay, and improve user satisfaction by providing personalized recommendations. Through training and evaluation, we seek to optimize the system for accuracy and usability, ultimately enhancing the shopping experience for users in the electronics domain.
+
+![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/91ac74c5-be5a-4213-8c41-85a87118abff)
+
+
+![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/ba7e2eec-cfb1-4f8b-98f2-fc40ff70bd8f)
+
+
+![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/2ae24915-e0c9-4208-a18b-3fb36e7e7354)
+
+
+
+![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/22476758-ab54-44a1-ae22-71f7757d7fb2)
