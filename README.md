@@ -1,10 +1,18 @@
+# Deep Learning for Collaborative Filtering with Custom Neural Networks using PyTorch 
+
+## Objective:
+
+The objective of this project is to develop a highly effective product recommendation system using deep learning techniques within the collaborative filtering framework. Key goals include:
+
+1. Designing and implementing a custom neural network architecture in PyTorch to process user interactions and item embeddings for personalized recommendations.
+2. Leveraging Fastai libraries for efficient training and evaluation of the recommendation model, aiming to achieve notable improvements in both training and validation performance.
+3. Integrating tailored embeddings and advanced neural network structures to enhance the accuracy and relevance of product recommendations.
+4. Evaluating the effectiveness of the recommendation system through extensive testing and validation, with a focus on enhancing user satisfaction and engagement within e-commerce platforms.
+
 # Abstract :
 
-This project focuses on developing an electronics product recommendation system using collaborative filtering with neural networks (collabNN). We present a novel approach by incorporating a custom embedding module and implementing weight decay regularization to enhance the performance of the recommendation model. The dataset consists of user ratings, brands, and timestamps, providing a rich source of information for personalized recommendations. Our model leverages collaborative filtering techniques to predict user preferences based on historical interactions with electronic products. Through an iterative training process, the model learns to generate embeddings that capture latent features of both users and products, enabling accurate predictions. Experimental results demonstrate the effectiveness of our approach, as evidenced by the decreasing trend in both training and validation losses over multiple epochs. The achieved performance underscores the potential of our recommendation system in offering tailored suggestions to users, thereby enhancing their shopping experience in the realm of electronics.
+This project presents the development of a sophisticated product recommendation system leveraging deep learning techniques within the collaborative filtering paradigm. Utilizing PyTorch and Fastai libraries, we engineered a custom neural network architecture capable of processing user interactions and item embeddings to deliver personalized product recommendations. By concatenating embedding activations and applying nonlinear transformations, the model effectively captures user preferences and item features. Through extensive training and evaluation, notable improvements in both training and validation performance were achieved, affirming the system's effectiveness in refining product recommendations. The integration of tailored embeddings and advanced neural network structures underscores the project's contribution to enhancing user satisfaction and engagement within e-commerce platforms.
 
-# Objective:
-
-The objective of this project is to create a user-friendly electronics product recommendation system using collaborative filtering and neural networks. We aim to accurately predict user preferences for electronic products, enhance model performance with a custom embedding module and weight decay, and improve user satisfaction by providing personalized recommendations. Through training and evaluation, we seek to optimize the system for accuracy and usability, ultimately enhancing the shopping experience for users in the electronics domain.
 
 ## Exploratory Data Analysis (EDA)
 
