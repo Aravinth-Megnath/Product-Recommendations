@@ -47,4 +47,8 @@ The objective of this project is to create a user-friendly electronics product r
 
 # Conclusion
 
+
+![Image](https://github.com/Aravinth-Megnath/Product-Recommendations/assets/120720408/07e215d9-dcd1-408f-a8e4-369fea2b6d2d)
+
+
 In conclusion, the decreasing trend in both training and validation losses suggests that the model is learning and improving over the training epochs. This indicates that our product recommendation system is effectively capturing patterns in user behavior and making better predictions. However, the slight fluctuations in validation loss indicate that there may be room for further optimization to enhance the system's performance. Overall, these results are promising and provide a solid foundation for refining and optimizing our recommendation system to better serve users and enhance their shopping experience.
